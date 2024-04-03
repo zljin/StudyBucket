@@ -33,6 +33,19 @@ https://tool.lu/
 
 电子书免费开源下载：zlibrary
 
+虚拟机：Vmware
+
+https://www.52pojie.cn/forum.php?mod=viewthread&tid=1804571&highlight=vmware
+
+压测：Jmeter
+
+https://blog.51cto.com/u_15631676/5285630
+
+jvm内存监控：Arthas
+
+https://arthas.aliyun.com/doc/advanced-use.html
+
+
 ## idea
 
 plugin:
@@ -85,3 +98,12 @@ https://www.dukadi.one/#/login
 https://xn--5hqx9equq.com/#/login
 
 star.369.cyou
+
+
+## java开发必装软件
+
+git jdk8 maven idea DockerDesktop
+
+hyper-v 占用win10很多端口如何解决：
+
+https://zhaoji.wang/solve-the-problem-of-windows-10-ports-being-randomly-reserved-occupied-by-hyper-v/
