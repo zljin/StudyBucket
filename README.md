@@ -1,4 +1,4 @@
-# 计算机学习资料
+# 程序员学习资料
 
 https://www.imooc.com/wiki/
 
@@ -9,7 +9,7 @@ https://www.runoob.com/
 https://space.bilibili.com/302417610?spm_id_from=333.337.0.0
 
 
-# 面试相关博客
+## 面试相关博客
 
 https://pdai.tech/
 
@@ -24,21 +24,9 @@ https://thinkwon.blog.csdn.net/article/details/104397516
 https://www.r2coding.com/#/README
 
 
-# 工具
-
-## 科学上网
-
-https://tzdaohang.com/
-
-https://www.dukadi.one/#/login
-
-https://xn--5hqx9equq.com/#/login
-
-star.369.cyou
-
 ## java开发必装软件
 
-git jdk8 maven idea DockerDesktop
+git jdk8 maven DockerDesktop
 
 hyper-v 占用win10很多端口如何解决：https://zhaoji.wang/solve-the-problem-of-windows-10-ports-being-randomly-reserved-occupied-by-hyper-v/
 
@@ -50,7 +38,7 @@ Vmware： https://www.52pojie.cn/forum.php?mod=viewthread&tid=1804571&highlight=
 在线图表制作：chartcube
 程序员工具箱：https://tool.lu/
 
-## idea
+### idea
 
 https://www.exception.site/essay/how-to-free-use-idea-202021-by-resigter-code
 
@@ -80,3 +68,14 @@ http://idea.javatiku.cn/{GUID}
 https://www.guidgen.com/
 
 3. Square Test 自动写unit test
+
+
+# 科学上网
+
+https://tzdaohang.com/
+
+https://www.dukadi.one/#/login
+
+https://xn--5hqx9equq.com/#/login
+
+star.369.cyou
