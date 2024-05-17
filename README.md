@@ -29,37 +29,45 @@ https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-p
 程序员工具箱：https://tool.lu/
 
 ## idea
+
 https://www.exception.site/essay/how-to-free-use-idea-202021-by-resigter-code
 
-plugin：
-1. CodeWhisperer (ai plugins,代码辅助工具)
-网易邮箱登录授权
-https://docs.aws.amazon.com/codewhisperer/latest/userguide/single-line-completion.html
-2. JRebel 热部署插件
-http://idea.javatiku.cn/{GUID}
-https://www.guidgen.com/
-3. Square Test 自动写unit test
-
-idea使用技巧：
-
+使用技巧：
 
 自动补全代码：
 - Windows：ctrl + shift + Enter（回车键）
-- Mac： ⌘ + ⇧ +⏎ 
+- Mac： ⌘ + ⇧ +⏎
 
 idea多tab item展示：
 Settings-->Editor Tabs--->Shows tabs in one row
 
-滑动控制字体大小
+滑动控制字体大小：
 Settings-->General-->Change font size with Ctrl+Mounse
 
+plugin：
+
+1. CodeWhisperer (ai代码辅助工具)
+
+网易邮箱登录授权
+https://docs.aws.amazon.com/codewhisperer/latest/userguide/single-line-completion.html
+
+2. JRebel 热部署插件
+
+http://idea.javatiku.cn/{GUID}
+
+https://www.guidgen.com/
+
+3. Square Test 自动写unit test
 
 
 ## 科学上网
 
 https://tzdaohang.com/
+
 https://www.dukadi.one/#/login
+
 https://xn--5hqx9equq.com/#/login
+
 star.369.cyou
 
 ## java开发必装软件
